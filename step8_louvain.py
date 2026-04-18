@@ -3,7 +3,7 @@ import pandas as pd
 import networkx as nx
 import community as community_louvain
 
-# ✅ create folder if missing
+# create folder if missing
 os.makedirs("results/modules", exist_ok=True)
 
 df = pd.read_csv("results/networks/consensus_tx.tsv", sep="\t")
