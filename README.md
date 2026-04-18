@@ -28,3 +28,7 @@ This project implements a transcriptome-based pipeline for analyzing breast canc
 
 ## Note
 Large datasets are not included. Please download data separately.
+
+## Highlights
+- Built scalable pipeline for large-scale transcriptomic analysis (~3000 samples)
+- Applied statistical and network-based methods for disease gene discovery
